@@ -1,5 +1,9 @@
 
+<div style="text-align:center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&lines=Hello+There%2C+I'm+Utku;Nice+To+Meet+You)](https://git.io/typing-svg)
+
+</div>
 
 <hr>
 
@@ -21,11 +25,7 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?uTKUCUU=anuraghazra&show_icons=true)
-
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
 
