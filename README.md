@@ -11,7 +11,7 @@
 <h6 align="center"> 🤔 I’m looking for help with front-end </h6>
 
 
-
+<div style="text-align:center;">
 
 ### Technologies
 
@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-
+</div>
 
 <hr>
 
