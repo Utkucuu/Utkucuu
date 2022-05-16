@@ -1,7 +1,7 @@
 
 <div style="text-align:center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&lines=Hello+There%2C+I'm+Utku;Nice+To+Meet+You)](https://git.io/typing-svg)
+[![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?size=30&center=true&lines=Hello+There%2C+I'm+Utku;Nice+To+Meet+You)](https://git.io/typing-svg)
 
 </div>
 
