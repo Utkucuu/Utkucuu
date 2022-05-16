@@ -1,4 +1,5 @@
 
+![](https://komarev.com/ghpvc/?Utkucuu=your-github-Utkucuu&label=PROFILE+VIEWSa)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&width=1000&height=100&lines=Hello+there%2C+I'm+Utku;My+profile+is+under+development;Nice+to+meet+you...)](https://git.io/typing-svg)
 
@@ -9,7 +10,7 @@
 
 <h6 align="center"> 🤔 I’m looking for help with front-end </h6>
 
-![](https://komarev.com/ghpvc/?Utkucuu=your-github-Utkucuu) 
+
 
 
 ### Technologies
