@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?Utkucuu=your-github-Utkucuu&label=PROFILE+VIEWSa)
+![](https://komarev.com/ghpvc/?username=your-github-Utkucuu)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&width=1000&height=100&lines=Hello+there%2C+I'm+Utku;My+profile+is+under+development;Nice+to+meet+you...)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 <h6 align="center"> 🤔 I’m looking for help with front-end </h6>
 
 
-<div style="text-align:center;">
+
 
 ### Technologies
 
@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-</div>
+
 
 <hr>
 
