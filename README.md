@@ -29,8 +29,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bayraktarogluutku@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utku-bayraktaroğlu-4bb38514b/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utku_bayraktaroglu/?hl=tr)
+
 </p>
 
