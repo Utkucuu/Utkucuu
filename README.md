@@ -31,5 +31,11 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/utku-bayraktaroğlu-4bb38514b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/utku_bayraktaroglu/?hl=tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="mailto:bayraktarogluutku@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
+
+
+  
 </p>
 
