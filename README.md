@@ -28,17 +28,9 @@
 <hr>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/utku-bayraktaroğlu-4bb38514b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/utku_bayraktaroglu/?hl=tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="mailto:bayraktarogluutku@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40"  style="fill: #ff0000;" />
-</a>
-
+<div align="center">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bayraktarogluutku@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utku-bayraktaroğlu-4bb38514b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utku_bayraktaroglu/?hl=tr)
-
-  
-</p>
+</div>
 
