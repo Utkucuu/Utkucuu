@@ -1,11 +1,5 @@
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&width=1000&height=100&lines=Hello+there%2C+I'm+Utku;My+profile+is+under+development;Nice+to+meet+you...)](https://git.io/typing-svg)
-
-
-<hr>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Utkucuu&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
